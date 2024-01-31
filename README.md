@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harshmendhe
-- 👀 I’m interested in ... Data analytics and data science
+- 👀 I’m interested in ... Data analytics and Data Science
 - 🌱 I’m currently learning ...Advance Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...email-harshmendhe456@gmail.com
